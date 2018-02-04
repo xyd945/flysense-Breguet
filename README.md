@@ -14,13 +14,16 @@ I used Dji SDK and google map sdk, many codes are from Dji.
 
 The app was developed in Nov, 2017. 
 
+Besides the GSDemo Dji provided, I also added the video recording parts(https://developer.dji.com/mobile-sdk/documentation/android-tutorials/index.html) and media manager parts (https://developer.dji.com/mobile-sdk/documentation/android-tutorials/MediaManagerDemo.html)
+
+The integrated app is something like this: see below screenshots
+
+![alt text](https://github.com/xyd945/flysense-Breguet/blob/master/screen-shots.png)
+
+
+
 Yudi 
 Feb 4, 2018
-
-
-
-
-
 
 ##-------------------------------
 # Android-GSDemo-GoogleMap
