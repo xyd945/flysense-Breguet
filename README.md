@@ -57,4 +57,4 @@ Please use **Github Issue** or **email** [oliver.ou@dji.com](oliver.ou@dji.com) 
 ## License
 
 Android-GSDemo-GoogleMap is available under the MIT license. Please see the LICENSE file for more infos.
-# AmazonS3-Android-upload
+
